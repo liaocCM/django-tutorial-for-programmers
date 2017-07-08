@@ -89,6 +89,8 @@ Django 偵測到剛剛的 `0001_initial` 尚未與資料庫同步，並成功執
 
 不信？證明給你看。輸入以下的指令：
 
+(記得下載sqlite3.exe,並且設置其位置之環境變數)
+
 ```bash
 python manage.py dbshell
 ```
